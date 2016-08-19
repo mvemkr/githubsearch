@@ -16,4 +16,4 @@ Angular 2 RC5 and Node js Simple Github Service
 - Go to Github, sign in, click your profile picture, then settings.  Click OAuth Applications, then the Developer Applications tab and create a new application.
 - You will need to create a secret.ts file in the config folder and name it SecretConfig with properties both your client id and secret for github that you received in the previous step.
 - Go to your directory and run Gulp, which you should have installed either locally or globally on your machine.
-- Run `npm start` this will run your nodemon server which will allow you to access the app component
+- Run `npm start` in a separate tab this will run your nodemon server which will allow you to access the app component
