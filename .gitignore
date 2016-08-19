@@ -1,4 +1,4 @@
-/assets/app/config/secret.js
+/assets/app/config/secret.ts
 /node_modules
 /public/js/app/**/*
 /public/js/vendor/**/*
